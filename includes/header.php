@@ -60,19 +60,11 @@
 					<div class="page-header-info">
 						<i class="icon icon-location"></i>1129, 3961 52 Ave NE office 204, Calgary, AB T3J 0J7, Canada
 					</div>
-					<!-- <div class="page-header-info">
-						<i class="icon icon-clock1"></i>8:00 am - 10:00 pm
-					</div> -->
 					<div class="page-header-info">
 						<i class="icon icon-phone"></i>Call: 587-777-2989
 					</div>
 				</div>
 				<div class="page-header-topline-right">
-					<ul class="social-list">
-						<li><a href="#"><i class="icon-facebook-logo1"></i></a></li>
-						<li><a href="#"><i class="icon-twitter-logo1"></i></a></li>
-						<li><a href="#"><i class="icon-instagram-logo1"></i></a></li>
-					</ul>
 					<div class="quote-button-wrap">
 						<a href="contact.php" class="btn"><i class="icon icon-bell"></i>Get a Quote</a>
 					</div>

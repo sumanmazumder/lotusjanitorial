@@ -1,13 +1,26 @@
 <?php include 'includes/header.php'; ?>
 	<main class="page-main">
+		<section class="page-header">
+            <div class="page-header__bg" style="background-image: url(images/page-header-bg.jpg);">
+            </div>
+            <div class="container">
+                <div class="page-header__inner">
+                    <div class="page-header__img-1">
+                        <img src="images/page-header-img-1.jpg" alt="">
+                    </div>
+                    <h2>Contact Us</h2>
+                    <div class="thm-breadcrumb__box">
+                        <ul class="thm-breadcrumb list-unstyled">
+                            <li><a href="index.html">Home</a></li>
+                            <li><span class="icon-arrow-right"></span></li>
+                            <li>Contact Us</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
 		<!-- Breadcrumbs Block -->
 		<div class="block breadcrumbs">
-			<div class="container">
-				<ul class="breadcrumb">
-					<li><a href="index-2.html">Home</a></li>
-					<li>Contact Us</li>
-				</ul>
-			</div>
 		</div>
 		<!-- //Breadcrumbs Block -->
 		<h1 class="text-center h-decor">Contact Us</h1>
