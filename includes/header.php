@@ -66,7 +66,7 @@
 				</div>
 				<div class="page-header-topline-right">
 					<div class="quote-button-wrap">
-						<a href="contact.html" class="btn"><i class="icon icon-bell"></i>Get a Quote</a>
+						<a href="contact.php" class="btn"><i class="icon icon-bell"></i>Get a Quote</a>
 					</div>
 				</div>
 			</div>
@@ -74,34 +74,34 @@
 		<div class="page-header-top">
 			<div class="container">
 				<div class="logo">
-					<a href="index.html"><img src="images/logo.webp" alt=""></a>
+					<a href="index.php"><img src="images/logo.webp" alt=""></a>
 					<div class="shine"></div>
 				</div>
 				<div class="page-header-menu">
 					<div class="container">
 						<ul class="menu">
-							<li class="active"><a href="index.html">HOME<span class="arrow"></span></a></li>
-							<li><a href="about.html">About Us</span></a></li>
-							<li><a href="services.html">Our Services<span class="arrow"></span></a>
+							<li class="active"><a href="index.php">HOME<span class="arrow"></span></a></li>
+							<li><a href="about.php">About Us</span></a></li>
+							<li><a href="services.php">Our Services<span class="arrow"></span></a>
 								<ul class="sub-menu">
-									<li><a href="construction-cleaning.html">Construction Cleaning</a></li>
-									<li><a href="commercial-cleaning.html">Commercial Cleaning</a></li>
-									<li><a href="disaster-restoration-services.html">Disaster and Restoration Services</a></li>
-									<li><a href="floor-maintenance.html">Floor Maintenance</a></li>
-									<li><a href="housekeeping-services.html">Housekeeping Services</a></li>
-									<li><a href="window-cleaning.html">Window Cleaning</a></li>
-									<li><a href="pressure-wash-services.html">Pressure Wash Services</a></li>
-									<li><a href="parking-cleaning-services.html">Parking Cleaning Services</a></li>
-									<li><a href="janitorial-services.html">Janitorial Services</a></li>
-									<li><a href="data-center-cleaning.html">Data Center Cleaning</a></li>
-									<li><a href="retail-cleaning.html">Retail Cleaning</a></li>
-									<li><a href="disinfectant-services.html">Disinfectant Services</a></li>
+									<li><a href="construction-cleaning.php">Construction Cleaning</a></li>
+									<li><a href="commercial-cleaning.php">Commercial Cleaning</a></li>
+									<li><a href="disaster-restoration-services.php">Disaster and Restoration Services</a></li>
+									<li><a href="floor-maintenance.php">Floor Maintenance</a></li>
+									<li><a href="housekeeping-services.php">Housekeeping Services</a></li>
+									<li><a href="window-cleaning.php">Window Cleaning</a></li>
+									<li><a href="pressure-wash-services.php">Pressure Wash Services</a></li>
+									<li><a href="parking-cleaning-services.php">Parking Cleaning Services</a></li>
+									<li><a href="janitorial-services.php">Janitorial Services</a></li>
+									<li><a href="data-center-cleaning.php">Data Center Cleaning</a></li>
+									<li><a href="retail-cleaning.php">Retail Cleaning</a></li>
+									<li><a href="disinfectant-services.php">Disinfectant Services</a></li>
 								</ul>
                         	</li>
 							<!-- <li><a href="faq.html">FAQs</a></li> -->
-							<li><a href="gallery.html">Gallery</a></li>
-							<li><a href="blog.html">Blog</a></li>
-							<li><a href="contact.html">Contacts</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
+							<li><a href="blog.php">Blog</a></li>
+							<li><a href="contact.php">Contacts</a></li>
 						</ul>
 					</div>
 				</div>
