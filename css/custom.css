@@ -3791,6 +3791,9 @@ body.fixed {
   border: 0;
   color: #425d74;
 }
+header.page-header {
+  z-index: 999;
+}
 .page-header-menu {
   border-top: 3px solid #6fbf52;
 }
