@@ -51,11 +51,6 @@
 				<div class="page-header-info">
 					<i class="icon icon-speech-bubble"></i><a href="mailto:officeone@youremail.com">officeone@youremail.com</a>
 				</div>
-				<ul class="social-list">
-					<li><a href="#"><i class="icon-facebook-logo1"></i></a></li>
-					<li><a href="#"><i class="icon-twitter-logo1"></i></a></li>
-					<li><a href="#"><i class="icon-instagram-logo1"></i></a></li>
-				</ul>
 			</div>
 		</div>
 		<div class="page-header-topline">

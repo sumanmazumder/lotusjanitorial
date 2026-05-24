@@ -13,7 +13,9 @@
 		<h1 class="text-center h-decor">Contact Us</h1>
 		<div class="block fullwidth no-pad">
 			<div class="container">
-				<div id="googleMap" class="google-map"></div>
+				<div id="googleMap" class="google-map">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2505.4744338738283!2d-113.97755389999999!3d51.0997062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5371648f625fe707%3A0x3e41a05baafe9f37!2sMuslim%20Families%20Network%20Society%20(MFNS)!5e0!3m2!1sen!2sin!4v1779568873733!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				</div>
 			</div>
 		</div>
 		<div class="block">
@@ -23,12 +25,11 @@
 						<h2>General Office</h2>
 						<div class="contact-info-sm">
 							<h5>Address</h5>
-							<i class="icon icon-map-marker"></i>3261 Anmoore Road
-							<br>Brooklyn, NY 11230
+							<i class="icon icon-map-marker"></i>1129, 3961 52 Ave NE office 204, Calgary, AB T3J 0J7, Canada
 						</div>
 						<div class="contact-info-sm">
 							<h5>Phone 24/7</h5>
-							<i class="icon icon-technology"></i>800-123-4567, Fax: 718-724-3312
+							<i class="icon icon-technology"></i>587-777-2989
 						</div>
 						<div class="contact-info-sm">
 							<h5>Operating Hours</h5>
@@ -36,13 +37,13 @@
 							<br>Sat-Sun: 11:00 am – 16:00 pm
 						</div>
 						<div class="divider"></div>
-						<h5>Look for us on</h5>
+						<!-- <h5>Look for us on</h5>
 						<ul class="social-list">
 							<li><a href="#"><i class="icon-google-plus-logo"></i></a></li>
 							<li><a href="#"><i class="icon-facebook-logo"></i></a></li>
 							<li><a href="#"><i class="icon-twitter-logo"></i></a></li>
 							<li><a href="#"><i class="icon-instagram-logo"></i></a></li>
-						</ul>
+						</ul> -->
 					</div>
 					<div class="divider visible-sm visible-xs"></div>
 					<div class="col-md-8">

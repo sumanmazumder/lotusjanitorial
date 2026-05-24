@@ -94,7 +94,7 @@
                                                 </div>
                                                 <div class="site-footer__contact-info-content">
                                                     <p>Address:</p>
-                                                    <h5>123 Maplewood Lane, YZ 56789. USA</h5>
+                                                    <h5>1129, 3961 52 Ave NE office 204, Calgary, AB T3J 0J7, Canada</h5>
                                                 </div>
                                             </li>
                                         </ul>
@@ -106,7 +106,7 @@
                                                 </div>
                                                 <div class="site-footer__contact-info-content">
                                                     <p>Email Address:</p>
-                                                    <h5><a href="mailto:info@domain.com">info@domain.com</a></h5>
+                                                    <h5><a href="mailto:lotus_janitorial@hotmail.com">lotus_janitorial@hotmail.com</a></h5>
                                                 </div>
                                             </li>
                                             <li>
@@ -115,7 +115,7 @@
                                                 </div>
                                                 <div class="site-footer__contact-info-content">
                                                     <p>Phone Number:</p>
-                                                    <h5><a href="tel:9288006780">+92 ( 8800 ) - 6780</a></h5>
+                                                    <h5><a href="tel:5877772989">587-777-2989</a></h5>
                                                 </div>
                                             </li>
                                         </ul>
@@ -139,7 +139,7 @@
                                         <h3 class="site-footer__top-right-heading-title">Collaborated with you to <br>
                                             find your valuable idea.</h3>
                                         <div class="site-footer__top-right-heading-img">
-                                            <img src="assets/images/resources/site-footer-top-right-heading-img.png"
+                                            <img src="images/site-footer-top-right-heading-img.png"
                                                 alt="">
                                         </div>
                                     </div>
@@ -227,20 +227,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="site-footer__bottom">
+                    
+                </div>
+            </div>
+            <div class="site-footer__bottom">
                         <div class="row align-items-center">
-                            <!-- <div class="col-xl-6 col-lg-6">
-                                <div class="site-footer__subscribe-form-box">
-                                    <form class="site-footer__subscribe-form">
-                                        <div class="site-footer__subscribe-input">
-                                            <input type="email" placeholder="Email Address">
-                                        </div>
-                                        <button type="submit" class="site-footer__subscribe-btn"> <span
-                                                class="icon-send"></span>
-                                            Subscribe</button>
-                                    </form>
-                                </div>
-                            </div> -->
+
                             <div class="col-xl-12 col-lg-12">
                                 <div class="site-footer__bottom-text-box">
                                     <p class="site-footer__bottom-text text-center">Copyright &copy; 2026 by <a
@@ -249,8 +241,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
         </footer>
         <!--Site Footer End-->
     </div><!-- /.page-wrapper -->
