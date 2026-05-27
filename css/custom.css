@@ -6712,7 +6712,7 @@ body.page-shop .page-header-top-middle {
   text-align: center;
   margin: 12px 0 30px;
   padding: 50px 60px 55px;
-  background-color: #a5c55f;
+  background-image: linear-gradient(to bottom, #4fadd9, #2b3d7d);
   border-radius: 10px;
   -webkit-box-shadow: 0 7px 20px rgba(85, 85, 85, 0.16);
   -moz-box-shadow: 0 7px 20px rgba(85, 85, 85, 0.16);
